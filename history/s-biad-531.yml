@@ -1,7 +1,7 @@
 url: https://www.ebi.ac.uk/biostudies/files/S-BIAD531/Zebrafish_ML_Archive/outputs/2020.07.30_FishDev_WT_01_1/obj_probs/FishDev_WT_01_1_MMStack_A10-Site_0.ome_Object%20Probabilities.tiff_results.txt
-status: up
-code: 200
-responseTime: 147
-lastUpdated: 2022-12-05T23:12:58.715Z
+status: down
+code: 404
+responseTime: 20183
+lastUpdated: 2022-12-06T10:42:12.645Z
 startTime: Fri Sep 30 2022 15:36:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
