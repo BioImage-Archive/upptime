@@ -22,19 +22,19 @@
     "url": "https://www.ebi.ac.uk/biostudies",
     "icon": "https://icons.duckduckgo.com/ip3/www.ebi.ac.uk.ico",
     "slug": "bio-studies",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 418,
-    "timeDay": 243,
-    "timeWeek": 846,
-    "timeMonth": 488,
-    "timeYear": 418,
+    "time": 518,
+    "timeDay": 6495,
+    "timeWeek": 2334,
+    "timeMonth": 871,
+    "timeYear": 518,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 7
     }
   },
   {
