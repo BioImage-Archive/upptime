@@ -4,9 +4,9 @@
     "url": "https://www.ebi.ac.uk/bioimage-archive",
     "icon": "https://icons.duckduckgo.com/ip3/www.ebi.ac.uk.ico",
     "slug": "bio-image-archive",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1106,
     "timeMonth": 1233,
     "timeYear": 1384,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-26": 0
+    }
   },
   {
     "name": "BioStudies",
