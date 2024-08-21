@@ -1,7 +1,7 @@
 url: https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/531/S-BIAD531/Files/Zebrafish_ML_Archive/outputs/2020.07.30_FishDev_WT_01_1/obj_probs/FishDev_WT_01_1_MMStack_A10-Site_0.ome_Object%20Probabilities.tiff_results.txt
-status: up
-code: 200
-responseTime: 94
-lastUpdated: 2024-08-21T08:46:54.006Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-08-21T12:53:53.779Z
 startTime: 2023-04-26T16:52:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
