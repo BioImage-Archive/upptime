@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
-    "time": 1313,
-    "timeDay": 1382,
-    "timeWeek": 1420,
-    "timeMonth": 1469,
+    "time": 1312,
+    "timeDay": 939,
+    "timeWeek": 1397,
+    "timeMonth": 1447,
     "timeYear": 1292,
     "dailyMinutesDown": {
       "2024-07-24": 37,
@@ -32,9 +32,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.02%",
     "time": 348,
-    "timeDay": 440,
+    "timeDay": 243,
     "timeWeek": 384,
-    "timeMonth": 351,
+    "timeMonth": 346,
     "timeYear": 350,
     "dailyMinutesDown": {
       "2024-07-24": 37,
@@ -55,15 +55,15 @@
     "slug": "s-biad-531",
     "status": "up",
     "uptime": "99.12%",
-    "uptimeDay": "98.63%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.34%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "98.55%",
     "time": 1966,
-    "timeDay": 969,
-    "timeWeek": 2674,
-    "timeMonth": 1873,
-    "timeYear": 1935,
+    "timeDay": 687,
+    "timeWeek": 2629,
+    "timeMonth": 1847,
+    "timeYear": 1933,
     "dailyMinutesDown": {
       "2024-08-22": 20,
       "2024-08-21": 27,
@@ -97,9 +97,9 @@
     "uptimeMonth": "98.55%",
     "uptimeYear": "99.27%",
     "time": 314,
-    "timeDay": 1907,
+    "timeDay": 80,
     "timeWeek": 2364,
-    "timeMonth": 1131,
+    "timeMonth": 1129,
     "timeYear": 363,
     "dailyMinutesDown": {
       "2024-08-21": 155,
@@ -114,8 +114,7 @@
       "2023-10-13": 131,
       "2023-10-12": 29,
       "2023-10-10": 75,
-      "2023-10-09": 86,
-      "2023-08-25": 23
+      "2023-10-09": 86
     }
   }
 ]
