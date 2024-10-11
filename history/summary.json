@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 1297,
-    "timeDay": 1093,
-    "timeWeek": 1224,
-    "timeMonth": 1305,
+    "time": 1298,
+    "timeDay": 1436,
+    "timeWeek": 1284,
+    "timeMonth": 1310,
     "timeYear": 1291,
     "dailyMinutesDown": {
       "2024-09-27": 21,
@@ -28,14 +28,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ebi.ac.uk.ico",
     "slug": "bio-studies",
     "status": "up",
-    "uptime": "99.15%",
+    "uptime": "99.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "98.35%",
-    "time": 346,
-    "timeDay": 443,
-    "timeWeek": 311,
+    "time": 345,
+    "timeDay": 293,
+    "timeWeek": 316,
     "timeMonth": 308,
     "timeYear": 344,
     "dailyMinutesDown": {
@@ -66,12 +66,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.35%",
-    "uptimeYear": "97.83%",
-    "time": 1855,
-    "timeDay": 1589,
-    "timeWeek": 1104,
-    "timeMonth": 1473,
-    "timeYear": 1891,
+    "uptimeYear": "97.84%",
+    "time": 1853,
+    "timeDay": 815,
+    "timeWeek": 1031,
+    "timeMonth": 1469,
+    "timeYear": 1844,
     "dailyMinutesDown": {
       "2024-09-24": 263,
       "2024-09-23": 20,
@@ -97,8 +97,7 @@
       "2023-10-16": 122,
       "2023-10-15": 731,
       "2023-10-14": 1124,
-      "2023-10-13": 277,
-      "2023-10-12": 67
+      "2023-10-13": 277
     }
   },
   {
@@ -107,16 +106,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ftp.ebi.ac.uk.ico",
     "slug": "s-biad-531-tfer-http",
     "status": "up",
-    "uptime": "99.16%",
+    "uptime": "99.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.49%",
     "uptimeMonth": "94.78%",
     "uptimeYear": "98.82%",
-    "time": 325,
-    "timeDay": 146,
-    "timeWeek": 99,
+    "time": 323,
+    "timeDay": 97,
+    "timeWeek": 101,
     "timeMonth": 98,
-    "timeYear": 405,
+    "timeYear": 406,
     "dailyMinutesDown": {
       "2024-10-08": 51,
       "2024-09-26": 1394,
@@ -135,8 +134,7 @@
       "2023-10-16": 348,
       "2023-10-15": 1079,
       "2023-10-14": 1238,
-      "2023-10-13": 131,
-      "2023-10-12": 29
+      "2023-10-13": 131
     }
   }
 ]
