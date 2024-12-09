@@ -105,8 +105,8 @@
     "slug": "s-biad-531-tfer-http",
     "status": "up",
     "uptime": "99.13%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "91.40%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "91.41%",
     "uptimeMonth": "97.85%",
     "uptimeYear": "99.18%",
     "time": 742,
@@ -115,7 +115,6 @@
     "timeMonth": 3563,
     "timeYear": 837,
     "dailyMinutesDown": {
-      "2024-12-08": 1,
       "2024-12-07": 190,
       "2024-12-06": 200,
       "2024-12-05": 306,
