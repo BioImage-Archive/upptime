@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1299,
-    "timeDay": 1335,
-    "timeWeek": 1490,
-    "timeMonth": 1403,
-    "timeYear": 1290,
+    "timeDay": 1309,
+    "timeWeek": 1425,
+    "timeMonth": 1416,
+    "timeYear": 1291,
     "dailyMinutesDown": {
       "2024-09-27": 21,
       "2024-09-04": 23,
@@ -33,10 +33,10 @@
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "98.34%",
-    "time": 352,
-    "timeDay": 417,
-    "timeWeek": 962,
-    "timeMonth": 521,
+    "time": 351,
+    "timeDay": 206,
+    "timeWeek": 938,
+    "timeMonth": 520,
     "timeYear": 357,
     "dailyMinutesDown": {
       "2024-12-10": 41,
@@ -53,8 +53,7 @@
       "2024-04-13": 331,
       "2023-12-18": 612,
       "2023-12-17": 565,
-      "2023-12-16": 1249,
-      "2023-12-15": 443
+      "2023-12-16": 1249
     }
   },
   {
@@ -63,15 +62,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ebi.ac.uk.ico",
     "slug": "s-biad-531",
     "status": "up",
-    "uptime": "98.86%",
-    "uptimeDay": "80.87%",
+    "uptime": "98.87%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "92.38%",
     "uptimeMonth": "98.20%",
     "uptimeYear": "98.13%",
-    "time": 2592,
-    "timeDay": 12346,
-    "timeWeek": 13919,
-    "timeMonth": 8687,
+    "time": 2575,
+    "timeDay": 1270,
+    "timeWeek": 13584,
+    "timeMonth": 8691,
     "timeYear": 2503,
     "dailyMinutesDown": {
       "2024-12-12": 274,
@@ -98,8 +97,7 @@
       "2024-04-13": 340,
       "2023-12-18": 602,
       "2023-12-17": 553,
-      "2023-12-16": 1249,
-      "2023-12-15": 441
+      "2023-12-16": 1249
     }
   },
   {
@@ -108,14 +106,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/ftp.ebi.ac.uk.ico",
     "slug": "s-biad-531-tfer-http",
     "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "96.39%",
-    "uptimeWeek": "90.61%",
+    "uptime": "99.08%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "92.60%",
     "uptimeMonth": "96.70%",
     "uptimeYear": "99.07%",
-    "time": 1002,
-    "timeDay": 174,
-    "timeWeek": 3968,
+    "time": 1001,
+    "timeDay": 82,
+    "timeWeek": 3496,
     "timeMonth": 3809,
     "timeYear": 1084,
     "dailyMinutesDown": {
