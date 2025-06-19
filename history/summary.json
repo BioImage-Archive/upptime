@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1316,
-    "timeDay": 1278,
-    "timeWeek": 1359,
-    "timeMonth": 1375,
-    "timeYear": 1338,
+    "time": 1317,
+    "timeDay": 1907,
+    "timeWeek": 1457,
+    "timeMonth": 1413,
+    "timeYear": 1341,
     "dailyMinutesDown": {
       "2024-09-27": 21,
       "2024-09-04": 23,
@@ -33,10 +33,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.31%",
-    "time": 322,
+    "time": 321,
     "timeDay": 226,
-    "timeWeek": 222,
-    "timeMonth": 255,
+    "timeWeek": 223,
+    "timeMonth": 257,
     "timeYear": 311,
     "dailyMinutesDown": {
       "2024-12-10": 41,
@@ -55,16 +55,16 @@
     "url": "https://www.ebi.ac.uk/biostudies/files/S-BIAD531/Zebrafish_ML_Archive/outputs/2020.07.30_FishDev_WT_01_1/obj_probs/FishDev_WT_01_1_MMStack_A10-Site_0.ome_Object%20Probabilities.tiff_results.txt",
     "icon": "https://icons.duckduckgo.com/ip3/www.ebi.ac.uk.ico",
     "slug": "s-biad-531",
-    "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "88.87%",
+    "status": "down",
+    "uptime": "99.49%",
+    "uptimeDay": "88.86%",
     "uptimeWeek": "98.41%",
     "uptimeMonth": "99.38%",
     "uptimeYear": "98.60%",
-    "time": 2263,
-    "timeDay": 1387,
-    "timeWeek": 1249,
-    "timeMonth": 1562,
+    "time": 2266,
+    "timeDay": 1444,
+    "timeWeek": 1293,
+    "timeMonth": 1578,
     "timeYear": 2593,
     "dailyMinutesDown": {
       "2025-06-19": 160,
@@ -112,8 +112,7 @@
       "2024-08-30": 118,
       "2024-08-26": 20,
       "2024-08-25": 28,
-      "2024-08-22": 20,
-      "2024-08-21": 27
+      "2024-08-22": 20
     }
   },
   {
@@ -121,13 +120,13 @@
     "url": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/531/S-BIAD531/Files/Zebrafish_ML_Archive/outputs/2020.07.30_FishDev_WT_01_1/obj_probs/FishDev_WT_01_1_MMStack_A10-Site_0.ome_Object%20Probabilities.tiff_results.txt",
     "icon": "https://icons.duckduckgo.com/ip3/ftp.ebi.ac.uk.ico",
     "slug": "s-biad-531-tfer-http",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "90.25%",
-    "uptimeWeek": "98.61%",
+    "uptimeDay": "90.23%",
+    "uptimeWeek": "98.60%",
     "uptimeMonth": "99.46%",
-    "uptimeYear": "98.85%",
-    "time": 895,
+    "uptimeYear": "98.86%",
+    "time": 896,
     "timeDay": 123,
     "timeWeek": 103,
     "timeMonth": 105,
@@ -171,8 +170,7 @@
       "2024-09-25": 702,
       "2024-09-24": 139,
       "2024-09-01": 17,
-      "2024-08-31": 46,
-      "2024-08-29": 22
+      "2024-08-31": 46
     }
   }
 ]
