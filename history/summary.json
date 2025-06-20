@@ -55,19 +55,19 @@
     "url": "https://www.ebi.ac.uk/biostudies/files/S-BIAD531/Zebrafish_ML_Archive/outputs/2020.07.30_FishDev_WT_01_1/obj_probs/FishDev_WT_01_1_MMStack_A10-Site_0.ome_Object%20Probabilities.tiff_results.txt",
     "icon": "https://icons.duckduckgo.com/ip3/www.ebi.ac.uk.ico",
     "slug": "s-biad-531",
-    "status": "up",
-    "uptime": "99.47%",
-    "uptimeDay": "68.42%",
-    "uptimeWeek": "95.49%",
+    "status": "down",
+    "uptime": "99.71%",
+    "uptimeDay": "68.38%",
+    "uptimeWeek": "95.48%",
     "uptimeMonth": "98.70%",
-    "uptimeYear": "98.56%",
-    "time": 2289,
+    "uptimeYear": "99.22%",
+    "time": 2290,
     "timeDay": 2956,
     "timeWeek": 2211,
     "timeMonth": 1832,
     "timeYear": 2605,
     "dailyMinutesDown": {
-      "2025-06-20": 285,
+      "2025-06-20": 286,
       "2025-06-19": 169,
       "2025-06-06": 31,
       "2025-06-05": 53,
@@ -106,11 +106,7 @@
       "2024-09-24": 263,
       "2024-09-23": 20,
       "2024-09-08": 18,
-      "2024-09-04": 22,
-      "2024-09-02": 466,
-      "2024-09-01": 1440,
-      "2024-08-31": 1440,
-      "2024-08-30": 118
+      "2024-09-04": 22
     }
   },
   {
@@ -118,13 +114,13 @@
     "url": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/531/S-BIAD531/Files/Zebrafish_ML_Archive/outputs/2020.07.30_FishDev_WT_01_1/obj_probs/FishDev_WT_01_1_MMStack_A10-Site_0.ome_Object%20Probabilities.tiff_results.txt",
     "icon": "https://icons.duckduckgo.com/ip3/ftp.ebi.ac.uk.ico",
     "slug": "s-biad-531-tfer-http",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "80.45%",
-    "uptimeWeek": "97.21%",
+    "uptimeDay": "80.43%",
+    "uptimeWeek": "97.20%",
     "uptimeMonth": "99.14%",
     "uptimeYear": "98.84%",
-    "time": 899,
+    "time": 900,
     "timeDay": 105,
     "timeWeek": 100,
     "timeMonth": 104,
@@ -167,8 +163,7 @@
       "2024-10-08": 51,
       "2024-09-26": 1394,
       "2024-09-25": 702,
-      "2024-09-24": 139,
-      "2024-09-01": 17
+      "2024-09-24": 139
     }
   }
 ]
