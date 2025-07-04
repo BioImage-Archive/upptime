@@ -53,17 +53,17 @@
     "url": "https://www.ebi.ac.uk/biostudies/files/S-BIAD531/Zebrafish_ML_Archive/outputs/2020.07.30_FishDev_WT_01_1/obj_probs/FishDev_WT_01_1_MMStack_A10-Site_0.ome_Object%20Probabilities.tiff_results.txt",
     "icon": "https://icons.duckduckgo.com/ip3/www.ebi.ac.uk.ico",
     "slug": "s-biad-531",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "92.55%",
-    "uptimeWeek": "98.94%",
+    "uptimeDay": "92.54%",
+    "uptimeWeek": "98.93%",
     "uptimeMonth": "98.30%",
-    "uptimeYear": "99.20%",
-    "time": 2310,
-    "timeDay": 1098,
-    "timeWeek": 1138,
+    "uptimeYear": "99.21%",
+    "time": 2311,
+    "timeDay": 1184,
+    "timeWeek": 1185,
     "timeMonth": 1780,
-    "timeYear": 2603,
+    "timeYear": 2602,
     "dailyMinutesDown": {
       "2025-07-04": 32,
       "2025-07-03": 75,
@@ -103,7 +103,7 @@
       "2024-12-07": 19,
       "2024-11-26": 19,
       "2024-11-10": 51,
-      "2024-09-24": 203
+      "2024-09-24": 177
     }
   },
   {
@@ -111,17 +111,17 @@
     "url": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/531/S-BIAD531/Files/Zebrafish_ML_Archive/outputs/2020.07.30_FishDev_WT_01_1/obj_probs/FishDev_WT_01_1_MMStack_A10-Site_0.ome_Object%20Probabilities.tiff_results.txt",
     "icon": "https://icons.duckduckgo.com/ip3/ftp.ebi.ac.uk.ico",
     "slug": "s-biad-531-tfer-http",
-    "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "96.23%",
+    "status": "down",
+    "uptime": "99.66%",
+    "uptimeDay": "96.22%",
     "uptimeWeek": "99.46%",
     "uptimeMonth": "98.85%",
-    "uptimeYear": "99.24%",
+    "uptimeYear": "99.25%",
     "time": 874,
-    "timeDay": 210,
-    "timeWeek": 143,
-    "timeMonth": 110,
-    "timeYear": 1064,
+    "timeDay": 204,
+    "timeWeek": 146,
+    "timeMonth": 112,
+    "timeYear": 1063,
     "dailyMinutesDown": {
       "2025-07-04": 32,
       "2025-07-03": 22,
@@ -158,8 +158,7 @@
       "2024-11-21": 25,
       "2024-11-10": 51,
       "2024-11-04": 23,
-      "2024-11-01": 16,
-      "2024-10-08": 51
+      "2024-11-01": 16
     }
   }
 ]
