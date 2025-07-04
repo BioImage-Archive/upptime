@@ -1,7 +1,7 @@
 url: https://www.ebi.ac.uk/bioimage-archive
-status: down
-code: 500
-responseTime: 1090
-lastUpdated: 2025-07-04T16:25:55.537Z
+status: up
+code: 200
+responseTime: 1466
+lastUpdated: 2025-07-04T16:47:07.555Z
 startTime: 2022-09-28T09:14:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
