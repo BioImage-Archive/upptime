@@ -54,18 +54,19 @@
     "url": "https://www.ebi.ac.uk/biostudies/files/S-BIAD531/Zebrafish_ML_Archive/outputs/2020.07.30_FishDev_WT_01_1/obj_probs/FishDev_WT_01_1_MMStack_A10-Site_0.ome_Object%20Probabilities.tiff_results.txt",
     "icon": "https://icons.duckduckgo.com/ip3/www.ebi.ac.uk.ico",
     "slug": "s-biad-531",
-    "status": "up",
-    "uptime": "99.71%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.72%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.74%",
     "uptimeMonth": "98.45%",
-    "uptimeYear": "99.20%",
-    "time": 2312,
+    "uptimeYear": "99.22%",
+    "time": 2313,
     "timeDay": 1375,
     "timeWeek": 1175,
     "timeMonth": 1746,
     "timeYear": 2605,
     "dailyMinutesDown": {
+      "2025-07-08": 0,
       "2025-07-04": 51,
       "2025-07-03": 75,
       "2025-06-20": 384,
@@ -104,7 +105,7 @@
       "2024-12-07": 19,
       "2024-11-26": 19,
       "2024-11-10": 51,
-      "2024-09-24": 177
+      "2024-09-24": 91
     }
   },
   {
