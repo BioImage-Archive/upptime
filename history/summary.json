@@ -54,12 +54,12 @@
     "url": "https://www.ebi.ac.uk/biostudies/files/S-BIAD531/Zebrafish_ML_Archive/outputs/2020.07.30_FishDev_WT_01_1/obj_probs/FishDev_WT_01_1_MMStack_A10-Site_0.ome_Object%20Probabilities.tiff_results.txt",
     "icon": "https://icons.duckduckgo.com/ip3/www.ebi.ac.uk.ico",
     "slug": "s-biad-531",
-    "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "25.92%",
+    "status": "down",
+    "uptime": "99.66%",
+    "uptimeDay": "27.91%",
     "uptimeWeek": "76.64%",
     "uptimeMonth": "93.07%",
-    "uptimeYear": "99.01%",
+    "uptimeYear": "99.04%",
     "time": 2487,
     "timeDay": 4335,
     "timeWeek": 3355,
@@ -100,7 +100,7 @@
       "2025-01-23": 99,
       "2025-01-15": 19,
       "2025-01-13": 76,
-      "2025-01-09": 277
+      "2025-01-09": 142
     }
   },
   {
@@ -108,14 +108,14 @@
     "url": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/531/S-BIAD531/Files/Zebrafish_ML_Archive/outputs/2020.07.30_FishDev_WT_01_1/obj_probs/FishDev_WT_01_1_MMStack_A10-Site_0.ome_Object%20Probabilities.tiff_results.txt",
     "icon": "https://icons.duckduckgo.com/ip3/ftp.ebi.ac.uk.ico",
     "slug": "s-biad-531-tfer-http",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "56.14%",
+    "uptimeDay": "57.98%",
     "uptimeWeek": "86.74%",
     "uptimeMonth": "95.91%",
-    "uptimeYear": "99.21%",
-    "time": 845,
-    "timeDay": 351,
+    "uptimeYear": "99.22%",
+    "time": 846,
+    "timeDay": 356,
     "timeWeek": 336,
     "timeMonth": 231,
     "timeYear": 1029,
@@ -150,7 +150,7 @@
       "2024-12-24": 113,
       "2024-12-12": 52,
       "2024-12-11": 109,
-      "2024-12-10": 198
+      "2024-12-10": 171
     }
   }
 ]
