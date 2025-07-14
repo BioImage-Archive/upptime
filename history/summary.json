@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 1314,
-    "timeDay": 1496,
-    "timeWeek": 1292,
-    "timeMonth": 1288,
-    "timeYear": 1338,
+    "time": 1317,
+    "timeDay": 2263,
+    "timeWeek": 1505,
+    "timeMonth": 1298,
+    "timeYear": 1334,
     "dailyMinutesDown": {
       "2025-07-04": 21,
       "2024-09-27": 21,
@@ -34,10 +34,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.32%",
     "time": 316,
-    "timeDay": 206,
-    "timeWeek": 224,
+    "timeDay": 337,
+    "timeWeek": 239,
     "timeMonth": 224,
-    "timeYear": 303,
+    "timeYear": 300,
     "dailyMinutesDown": {
       "2024-12-10": 41,
       "2024-09-27": 20,
@@ -54,17 +54,17 @@
     "url": "https://www.ebi.ac.uk/biostudies/files/S-BIAD531/Zebrafish_ML_Archive/outputs/2020.07.30_FishDev_WT_01_1/obj_probs/FishDev_WT_01_1_MMStack_A10-Site_0.ome_Object%20Probabilities.tiff_results.txt",
     "icon": "https://icons.duckduckgo.com/ip3/www.ebi.ac.uk.ico",
     "slug": "s-biad-531",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "26.85%",
+    "uptimeDay": "29.57%",
     "uptimeWeek": "72.02%",
     "uptimeMonth": "92.01%",
-    "uptimeYear": "98.99%",
-    "time": 2360,
-    "timeDay": 3413,
-    "timeWeek": 3065,
-    "timeMonth": 2533,
-    "timeYear": 2666,
+    "uptimeYear": "99.00%",
+    "time": 2362,
+    "timeDay": 3216,
+    "timeWeek": 3052,
+    "timeMonth": 2525,
+    "timeYear": 2665,
     "dailyMinutesDown": {
       "2025-07-14": 1003,
       "2025-07-13": 799,
@@ -97,8 +97,7 @@
       "2025-03-05": 50,
       "2025-02-25": 26,
       "2025-01-28": 22,
-      "2025-01-23": 99,
-      "2025-01-15": 19
+      "2025-01-23": 99
     }
   },
   {
@@ -106,15 +105,15 @@
     "url": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/531/S-BIAD531/Files/Zebrafish_ML_Archive/outputs/2020.07.30_FishDev_WT_01_1/obj_probs/FishDev_WT_01_1_MMStack_A10-Site_0.ome_Object%20Probabilities.tiff_results.txt",
     "icon": "https://icons.duckduckgo.com/ip3/ftp.ebi.ac.uk.ico",
     "slug": "s-biad-531-tfer-http",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "58.41%",
-    "uptimeWeek": "83.54%",
+    "uptimeDay": "59.85%",
+    "uptimeWeek": "83.53%",
     "uptimeMonth": "95.18%",
-    "uptimeYear": "99.18%",
-    "time": 852,
-    "timeDay": 451,
-    "timeWeek": 329,
+    "uptimeYear": "99.19%",
+    "time": 853,
+    "timeDay": 439,
+    "timeWeek": 330,
     "timeMonth": 235,
     "timeYear": 1022,
     "dailyMinutesDown": {
@@ -148,7 +147,7 @@
       "2024-12-24": 113,
       "2024-12-12": 52,
       "2024-12-11": 109,
-      "2024-12-10": 62
+      "2024-12-10": 29
     }
   }
 ]
