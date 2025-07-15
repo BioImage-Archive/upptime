@@ -54,18 +54,19 @@
     "url": "https://www.ebi.ac.uk/biostudies/files/S-BIAD531/Zebrafish_ML_Archive/outputs/2020.07.30_FishDev_WT_01_1/obj_probs/FishDev_WT_01_1_MMStack_A10-Site_0.ome_Object%20Probabilities.tiff_results.txt",
     "icon": "https://icons.duckduckgo.com/ip3/www.ebi.ac.uk.ico",
     "slug": "s-biad-531",
-    "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "33.40%",
+    "status": "down",
+    "uptime": "99.65%",
+    "uptimeDay": "44.40%",
     "uptimeWeek": "71.82%",
     "uptimeMonth": "91.96%",
-    "uptimeYear": "98.99%",
-    "time": 2361,
+    "uptimeYear": "99.01%",
+    "time": 2362,
     "timeDay": 3181,
     "timeWeek": 3007,
     "timeMonth": 2505,
     "timeYear": 2661,
     "dailyMinutesDown": {
+      "2025-07-15": 0,
       "2025-07-14": 1023,
       "2025-07-13": 799,
       "2025-07-12": 910,
@@ -96,8 +97,7 @@
       "2025-03-07": 61,
       "2025-03-05": 50,
       "2025-02-25": 26,
-      "2025-01-28": 22,
-      "2025-01-23": 99
+      "2025-01-28": 22
     }
   },
   {
@@ -105,18 +105,19 @@
     "url": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/531/S-BIAD531/Files/Zebrafish_ML_Archive/outputs/2020.07.30_FishDev_WT_01_1/obj_probs/FishDev_WT_01_1_MMStack_A10-Site_0.ome_Object%20Probabilities.tiff_results.txt",
     "icon": "https://icons.duckduckgo.com/ip3/ftp.ebi.ac.uk.ico",
     "slug": "s-biad-531-tfer-http",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "62.24%",
+    "uptimeDay": "62.23%",
     "uptimeWeek": "83.33%",
     "uptimeMonth": "95.13%",
-    "uptimeYear": "99.18%",
-    "time": 852,
+    "uptimeYear": "99.19%",
+    "time": 830,
     "timeDay": 377,
     "timeWeek": 325,
     "timeMonth": 234,
     "timeYear": 1020,
     "dailyMinutesDown": {
+      "2025-07-15": 0,
       "2025-07-14": 589,
       "2025-07-13": 604,
       "2025-07-12": 448,
@@ -146,8 +147,7 @@
       "2025-01-09": 306,
       "2024-12-24": 113,
       "2024-12-12": 52,
-      "2024-12-11": 109,
-      "2024-12-10": 29
+      "2024-12-11": 109
     }
   }
 ]
