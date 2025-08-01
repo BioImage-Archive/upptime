@@ -54,9 +54,9 @@
     "slug": "s-biad-531",
     "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "95.74%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "92.32%",
+    "uptimeDay": "94.32%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "92.27%",
     "uptimeYear": "98.97%",
     "time": 2380,
     "timeDay": 4715,
@@ -64,7 +64,7 @@
     "timeMonth": 2364,
     "timeYear": 2647,
     "dailyMinutesDown": {
-      "2025-08-01": 1,
+      "2025-08-01": 21,
       "2025-07-31": 61,
       "2025-07-21": 19,
       "2025-07-15": 317,
@@ -101,18 +101,19 @@
     "url": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/531/S-BIAD531/Files/Zebrafish_ML_Archive/outputs/2020.07.30_FishDev_WT_01_1/obj_probs/FishDev_WT_01_1_MMStack_A10-Site_0.ome_Object%20Probabilities.tiff_results.txt",
     "icon": "https://icons.duckduckgo.com/ip3/ftp.ebi.ac.uk.ico",
     "slug": "s-biad-531-tfer-http",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "97.23%",
+    "uptimeDay": "97.21%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "95.35%",
-    "uptimeYear": "99.15%",
+    "uptimeYear": "99.16%",
     "time": 835,
     "timeDay": 115,
     "timeWeek": 128,
     "timeMonth": 245,
     "timeYear": 1011,
     "dailyMinutesDown": {
+      "2025-08-01": 0,
       "2025-07-31": 40,
       "2025-07-21": 19,
       "2025-07-15": 226,
@@ -144,7 +145,7 @@
       "2025-01-23": 99,
       "2025-01-09": 306,
       "2024-12-24": 113,
-      "2024-12-12": 52
+      "2024-12-12": 26
     }
   }
 ]
