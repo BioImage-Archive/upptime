@@ -54,7 +54,7 @@
     "slug": "s-biad-531",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "81.38%",
+    "uptimeDay": "94.36%",
     "uptimeWeek": "96.74%",
     "uptimeMonth": "91.71%",
     "uptimeYear": "98.93%",
@@ -101,18 +101,19 @@
     "url": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/531/S-BIAD531/Files/Zebrafish_ML_Archive/outputs/2020.07.30_FishDev_WT_01_1/obj_probs/FishDev_WT_01_1_MMStack_A10-Site_0.ome_Object%20Probabilities.tiff_results.txt",
     "icon": "https://icons.duckduckgo.com/ip3/ftp.ebi.ac.uk.ico",
     "slug": "s-biad-531-tfer-http",
-    "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "83.10%",
+    "status": "down",
+    "uptime": "99.62%",
+    "uptimeDay": "92.44%",
     "uptimeWeek": "97.19%",
     "uptimeMonth": "94.79%",
-    "uptimeYear": "99.12%",
-    "time": 889,
-    "timeDay": 7822,
+    "uptimeYear": "99.13%",
+    "time": 890,
+    "timeDay": 5968,
     "timeWeek": 3334,
     "timeMonth": 693,
     "timeYear": 1068,
     "dailyMinutesDown": {
+      "2025-08-02": 0,
       "2025-08-01": 244,
       "2025-07-31": 40,
       "2025-07-21": 19,
@@ -144,7 +145,7 @@
       "2025-02-26": 26,
       "2025-01-23": 99,
       "2025-01-09": 306,
-      "2024-12-24": 83
+      "2024-12-24": 46
     }
   }
 ]
