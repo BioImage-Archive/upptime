@@ -48,18 +48,19 @@
     "url": "https://www.ebi.ac.uk/biostudies/files/S-BIAD531/Zebrafish_ML_Archive/outputs/2020.07.30_FishDev_WT_01_1/obj_probs/FishDev_WT_01_1_MMStack_A10-Site_0.ome_Object%20Probabilities.tiff_results.txt",
     "icon": "https://icons.duckduckgo.com/ip3/www.ebi.ac.uk.ico",
     "slug": "s-biad-531",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "98.96%",
-    "time": 2547,
-    "timeDay": 2865,
-    "timeWeek": 1659,
-    "timeMonth": 1545,
-    "timeYear": 1998,
+    "time": 2553,
+    "timeDay": 4317,
+    "timeWeek": 2173,
+    "timeMonth": 1635,
+    "timeYear": 2004,
     "dailyMinutesDown": {
+      "2025-12-27": 0,
       "2025-12-13": 16,
       "2025-12-04": 25,
       "2025-12-03": 47,
@@ -95,8 +96,7 @@
       "2025-05-16": 115,
       "2025-05-15": 59,
       "2025-05-13": 147,
-      "2025-04-17": 67,
-      "2025-04-16": 16
+      "2025-04-17": 67
     }
   },
   {
@@ -104,18 +104,19 @@
     "url": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/531/S-BIAD531/Files/Zebrafish_ML_Archive/outputs/2020.07.30_FishDev_WT_01_1/obj_probs/FishDev_WT_01_1_MMStack_A10-Site_0.ome_Object%20Probabilities.tiff_results.txt",
     "icon": "https://icons.duckduckgo.com/ip3/ftp.ebi.ac.uk.ico",
     "slug": "s-biad-531-tfer-http",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.09%",
-    "time": 831,
-    "timeDay": 125,
-    "timeWeek": 126,
+    "uptimeYear": "99.10%",
+    "time": 830,
+    "timeDay": 119,
+    "timeWeek": 124,
     "timeMonth": 115,
-    "timeYear": 527,
+    "timeYear": 526,
     "dailyMinutesDown": {
+      "2025-12-27": 0,
       "2025-12-13": 16,
       "2025-11-23": 31,
       "2025-11-20": 34,
@@ -150,7 +151,7 @@
       "2025-03-16": 66,
       "2025-03-15": 52,
       "2025-03-14": 82,
-      "2025-03-13": 451
+      "2025-03-13": 389
     }
   }
 ]
