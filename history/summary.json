@@ -50,18 +50,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ebi.ac.uk.ico",
     "slug": "s-biad-531",
     "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "88.43%",
-    "uptimeWeek": "98.35%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "98.95%",
+    "uptime": "99.69%",
+    "uptimeDay": "89.21%",
+    "uptimeWeek": "98.46%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "98.92%",
     "time": 1858,
     "timeDay": 1793,
     "timeWeek": 1460,
     "timeMonth": 1362,
     "timeYear": 1747,
     "dailyMinutesDown": {
-      "2026-03-25": 166,
+      "2026-03-25": 155,
       "2026-03-18": 32,
       "2026-02-22": 19,
       "2026-02-13": 89,
@@ -100,7 +100,7 @@
       "2025-07-04": 51,
       "2025-07-03": 75,
       "2025-06-20": 384,
-      "2025-06-19": 28
+      "2025-06-19": 169
     }
   },
   {
