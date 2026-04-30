@@ -1,7 +1,7 @@
 url: https://www.ebi.ac.uk/biostudies
-status: down
-code: 500
-responseTime: 4936
-lastUpdated: 2026-04-30T19:40:44.634Z
+status: up
+code: 200
+responseTime: 209
+lastUpdated: 2026-04-30T20:42:13.521Z
 startTime: 2022-09-28T09:14:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
