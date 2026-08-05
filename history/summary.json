@@ -64,17 +64,17 @@
     "url": "https://www.ebi.ac.uk/biostudies/files/S-BIAD531/Zebrafish_ML_Archive/outputs/2020.07.30_FishDev_WT_01_1/obj_probs/FishDev_WT_01_1_MMStack_A10-Site_0.ome_Object%20Probabilities.tiff_results.txt",
     "icon": "https://icons.duckduckgo.com/ip3/www.ebi.ac.uk.ico",
     "slug": "s-biad-531",
-    "status": "down",
-    "uptime": "99.26%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "97.71%",
-    "time": 2042,
-    "timeDay": 4629,
-    "timeWeek": 2166,
-    "timeMonth": 1875,
-    "timeYear": 1901,
+    "status": "up",
+    "uptime": "99.25%",
+    "uptimeDay": "82.44%",
+    "uptimeWeek": "96.92%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "97.66%",
+    "time": 2043,
+    "timeDay": 3561,
+    "timeWeek": 2099,
+    "timeMonth": 1863,
+    "timeYear": 1900,
     "dailyMinutesDown": {
       "2025-08-07": 32,
       "2025-08-09": 49,
@@ -129,7 +129,7 @@
       "2026-06-09": 698,
       "2026-07-03": 64,
       "2026-08-02": 58,
-      "2026-08-05": 10
+      "2026-08-05": 253
     }
   },
   {
@@ -137,17 +137,17 @@
     "url": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/531/S-BIAD531/Files/Zebrafish_ML_Archive/outputs/2020.07.30_FishDev_WT_01_1/obj_probs/FishDev_WT_01_1_MMStack_A10-Site_0.ome_Object%20Probabilities.tiff_results.txt",
     "icon": "https://icons.duckduckgo.com/ip3/ftp.ebi.ac.uk.ico",
     "slug": "s-biad-531-tfer-http",
-    "status": "down",
-    "uptime": "99.66%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.56%",
-    "time": 517,
-    "timeDay": 435,
-    "timeWeek": 538,
-    "timeMonth": 577,
-    "timeYear": 461,
+    "status": "up",
+    "uptime": "99.64%",
+    "uptimeDay": "83.09%",
+    "uptimeWeek": "97.58%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.55%",
+    "time": 518,
+    "timeDay": 419,
+    "timeWeek": 521,
+    "timeMonth": 571,
+    "timeYear": 425,
     "dailyMinutesDown": {
       "2025-08-06": 21,
       "2025-08-09": 39,
@@ -170,7 +170,7 @@
       "2026-04-08": 331,
       "2026-04-09": 576,
       "2026-05-01": 185,
-      "2026-08-05": 0
+      "2026-08-05": 244
     }
   }
 ]
