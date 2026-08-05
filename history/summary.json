@@ -64,16 +64,16 @@
     "url": "https://www.ebi.ac.uk/biostudies/files/S-BIAD531/Zebrafish_ML_Archive/outputs/2020.07.30_FishDev_WT_01_1/obj_probs/FishDev_WT_01_1_MMStack_A10-Site_0.ome_Object%20Probabilities.tiff_results.txt",
     "icon": "https://icons.duckduckgo.com/ip3/www.ebi.ac.uk.ico",
     "slug": "s-biad-531",
-    "status": "down",
+    "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "82.41%",
-    "uptimeWeek": "96.92%",
-    "uptimeMonth": "99.29%",
-    "uptimeYear": "97.66%",
+    "uptimeDay": "76.56%",
+    "uptimeWeek": "96.08%",
+    "uptimeMonth": "99.10%",
+    "uptimeYear": "97.64%",
     "time": 2045,
-    "timeDay": 3561,
-    "timeWeek": 2099,
-    "timeMonth": 1863,
+    "timeDay": 3065,
+    "timeWeek": 2055,
+    "timeMonth": 1855,
     "timeYear": 1899,
     "dailyMinutesDown": {
       "2025-08-07": 32,
@@ -129,7 +129,7 @@
       "2026-06-09": 698,
       "2026-07-03": 64,
       "2026-08-02": 58,
-      "2026-08-05": 253
+      "2026-08-05": 338
     }
   },
   {
@@ -137,17 +137,17 @@
     "url": "https://ftp.ebi.ac.uk/biostudies/fire/S-BIAD/531/S-BIAD531/Files/Zebrafish_ML_Archive/outputs/2020.07.30_FishDev_WT_01_1/obj_probs/FishDev_WT_01_1_MMStack_A10-Site_0.ome_Object%20Probabilities.tiff_results.txt",
     "icon": "https://icons.duckduckgo.com/ip3/ftp.ebi.ac.uk.ico",
     "slug": "s-biad-531-tfer-http",
-    "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "83.07%",
-    "uptimeWeek": "97.58%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.55%",
+    "status": "up",
+    "uptime": "99.64%",
+    "uptimeDay": "77.22%",
+    "uptimeWeek": "96.75%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.53%",
     "time": 518,
-    "timeDay": 419,
-    "timeWeek": 521,
-    "timeMonth": 571,
-    "timeYear": 401,
+    "timeDay": 384,
+    "timeWeek": 498,
+    "timeMonth": 563,
+    "timeYear": 400,
     "dailyMinutesDown": {
       "2025-08-06": 21,
       "2025-08-09": 39,
@@ -170,7 +170,7 @@
       "2026-04-08": 331,
       "2026-04-09": 576,
       "2026-05-01": 185,
-      "2026-08-05": 244
+      "2026-08-05": 328
     }
   }
 ]
